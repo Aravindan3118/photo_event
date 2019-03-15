@@ -22,7 +22,7 @@
             </div>
             <!-- /.box-header -->
             <div class="box-body">
-            <h1>Min age has been removed</h1>
+            <h1>Lorem</h1>
               <table id="example1" class="table table-bordered table-striped">
                 <thead>
                 <tr>
