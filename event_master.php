@@ -28,7 +28,6 @@
                   <th>Event Name</th>
                   <th>Event Date</th>
                   <th>Register end date</th>
-                  <th>min age</th>
                   <th>amount</th>
                 </tr>
                 </thead>
@@ -46,7 +45,6 @@
                   <td><?php echo $d['date'];?>
                   </td>
                   <td><?php echo $d['booking_close_at'];?></td>
-                  <td><?php echo $d['min_age'];?></td>
                   <td><?php echo $d['amount'];?></td>
                 </tr>
                     <?php }} else{
@@ -64,7 +62,6 @@
                   <th>Event Name</th>
                   <th>Event Date</th>
                   <th>Register end date</th>
-                  <th>min age</th>
                   <th>amount</th>
                 </tr>
                 </tfoot>
